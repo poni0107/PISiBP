@@ -18,6 +18,13 @@ Our team consists of the following members:
 ## Tech Stack
 
 The website was made using the following technologies:
+<<<<<<< Updated upstream
 -   __Backend__     -- _Spring Boot_
 -   __Frontend__    -- _React_ 
 -   __Database__    -- _MySQL_
+=======
+-   __Backend__     --- _Spring Boot_
+-   __Frontend__    --- _React_ 
+-   __Database__    --- _MySQL_
+This is the main.
+>>>>>>> Stashed changes
