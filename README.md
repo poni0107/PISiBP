@@ -21,5 +21,3 @@ The website was made using the following technologies:
 -   __Backend__     --- _Spring Boot_
 -   __Frontend__    --- _React_ 
 -   __Database__    --- _MySQL_
-
-I can still update main.
